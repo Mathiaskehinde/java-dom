@@ -1,0 +1,20 @@
+.firstDiv{
+    display: flex;
+    justify-content: ;
+    margin: 30px 0 0 0;
+}
+.chird1{
+    background-color: #fff;
+    height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+}
+.chird2{
+    background-color: #fff;
+    height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+}
+.btn{
+    padding: relative;
+}
